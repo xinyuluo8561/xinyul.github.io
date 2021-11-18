@@ -14,18 +14,19 @@ In my lesuire time, I like watching sports matches. I am an over 15 years tennis
 
 ## Research
 
-### Research Intern of Prof. Christopher Musco at New York University
+Research Intern of Prof. Christopher Musco at New York University
 Project I: Kernel Density Estimate (KDE) for Mode Finding Optimized by Dimensionality Reduction
 Project II: Hardness Analysis for Mode Finding of Gaussian Mixture Model
 
-### Research Assistant for Professor Li Zhu at Xi'an Jiaotong University
+Research Assistant for Professor Li Zhu at Xi'an Jiaotong University
 Project: Researched on Point Cloud Multi-View Registration Methods for 3-D Scanning System
 
 ## Projects
-### Advanced Project Advised by Professor Greg Aloupis at New York University
+Advanced Project Advised by Professor Greg Aloupis at New York University
 Project: A Survey of Theta Graph
 Project extension: Graph Generator for Theta Graph
-### Course Project Instructed by Professor Julian Togelius at New York University
+
+Course Project Instructed by Professor Julian Togelius at New York University
 Project: Generalization of Reinforcement Learning with ProcGen
 
 ## Teaching Assistant
